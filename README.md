@@ -1,5 +1,8 @@
-# Blog-Project
-A simple blog app created using nextjs
+# [Blog-Project](https://blog-project-kappa-orpin.vercel.app/)
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+Welcome to my blog app, a project built with Next.js and Prisma ORM and deployed on Vercel. Through this journey, I delved into Next.js routing, explored caching techniques, and successfully integrated Kinde for authentication. This project reflects my hands-on learning experience and showcases the power of modern web technologies.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
